@@ -1,0 +1,278 @@
+/* src/index.css */
+:root {
+  /* 색상 */
+  --color-primary: #4a90e2;
+  --color-primary-dark: #357ab8;
+  --color-gray-100: #f8f9fa;
+  --color-gray-300: #ccc;
+  --color-gray-700: #222;
+  --color-text: #111;
+
+  /* 타이포그래피 */
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-sm: 0.875rem;
+
+  /* 간격 스케일 */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 12px;
+  --space-lg: 24px;
+
+  /* 반경 */
+  --radius-base: 6px;
+  --radius-md: 12px;
+}
+
+/* ────────────────────────────────────────────────────────
+   레이아웃 & 전역 설정
+──────────────────────────────────────────────────────── */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+.app-container {
+  display: flex;
+  height: 100vh;      /* viewport 전체 높이 */
+  overflow: hidden;   /* 외부 스크롤 제거 */
+  font-family: sans-serif;
+}
+
+/* ────────────────────────────────────────────────────────
+   사이드바
+──────────────────────────────────────────────────────── */
+.sidebar {
+  width: 320px;
+  padding: 24px;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  box-sizing: border-box;
+  overflow-y: auto;
+}
+
+.sidebar-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+.sidebar-logo {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+.sidebar-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+/* ────────────────────────────────────────────────────────
+   주소 자동완성
+──────────────────────────────────────────────────────── */
+.address-form {
+  position: relative;
+  margin-bottom: 16px;
+}
+.address-form input {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-sizing: border-box;
+  margin-top: 8px;
+  display: block;
+  width: 100%;
+}
+.address-form .suggestions {
+  position: absolute;
+  top: 100%;
+  background: #fff;
+  border: 1px solid #ccc;
+  margin-top: 4px; 
+  max-height: 200px;
+  overflow-y: auto;
+  z-index: 9999;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.address-form .suggestions li {
+  padding: 8px;
+  cursor: pointer;
+}
+
+/* ────────────────────────────────────────────────────────
+   섹션 헤더
+──────────────────────────────────────────────────────── */
+.address-label,
+.section-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.address-label {
+  font-size: 1.125rem;
+  color: #111;
+}
+.address-label svg {
+  width: 20px;
+  height: 20px;
+  color: #ff6b6b;
+}
+.section-header {
+  margin: 24px 0 12px;
+  font-size: 1.1rem;
+}
+.section-header svg {
+  width: 20px;
+  height: 20px;
+  color: #4a90e2;
+}
+
+/* ────────────────────────────────────────────────────────
+   공통 입력 / 셀렉트
+──────────────────────────────────────────────────────── */
+input, select {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 1.125rem;
+  color: #111;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-sizing: border-box;
+  margin-bottom: 12px;
+  outline: none;
+}
+
+/* ────────────────────────────────────────────────────────
+   가격 변환 보조 텍스트 (하단) → 이제 사용 안함
+──────────────────────────────────────────────────────── */
+.price-format {
+  margin-top: 4px;
+  font-size: 0.9em;
+  color: #555;
+}
+
+/* ────────────────────────────────────────────────────────
+   버튼 스타일
+──────────────────────────────────────────────────────── */
+.primary-btn {
+  width: 100%;
+  padding: 12px;
+  background: #4a90e2;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 12px;
+}
+.primary-btn:hover {
+  background: #357ab8;
+}
+
+/* ────────────────────────────────────────────────────────
+   세그먼티드 컨트롤 (㎡ / 평 토글)
+──────────────────────────────────────────────────────── */
+.unit-toggle {
+  display: inline-flex;
+  border: 1px solid #007bff;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.unit-toggle button {
+  flex: 1;
+  padding: 4px 12px;
+  font-size: 0.875rem;
+  background: #fff;
+  border: none;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.unit-toggle button.active {
+  background: #007bff;
+  color: #fff;
+}
+.unit-toggle button:not(.active):hover {
+  background: #e6f0ff;
+}
+
+/* ────────────────────────────────────────────────────────
+   입력 + 애드온 (가격/면적 변환값) 인라인 배치
+──────────────────────────────────────────────────────── */
+.input-group {
+  display: grid;
+  grid-template-columns: 1fr auto;  /* 왼쪽 input, 오른쪽 addon */
+  /* 또는 flex:
+     display: flex;
+     align-items: stretch;
+  */
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  overflow: hidden;
+  height: 44px;           /* 원하는 높이로 고정 */
+  box-sizing: border-box;
+  margin-top: 4px;        /* 라벨과 간격 */
+}
+
+/* 1) input: 세로 패딩 제거, height 100% */
+.input-group input {
+  grid-column: 1;
+  height: 100%;
+  border: none;           /* container가 border 담당 */
+  outline: none;
+  padding: 0 12px;        /* 좌우 여백만 */
+  font-size: 1.125rem;
+  color: #111;
+  box-sizing: border-box;
+}
+
+/* 2) addon: flex로 중앙 정렬, height 100% */
+.input-addon {
+  grid-column: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 12px;
+  background: #f8f9fa;
+  font-size: 0.875rem;
+  color: #222;
+  font-weight: 500;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+
+/* ────────────────────────────────────────────────────────
+   메인 지도
+──────────────────────────────────────────────────────── */
+.map-container {
+  flex: 1;
+  height: 100%;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #eee;
+  margin: 16px 0;
+}
+
+.filter-group {
+  margin-bottom: 24px;  /* 기존 12px보다 크게, 원하는 값으로 조절 */
+}
+
+@media (max-width: 480px) {
+  .sidebar {
+    width: 100%;
+    border-radius: 0;
+  }
+}
+

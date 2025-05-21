@@ -1,0 +1,153 @@
+/* src/SlidingDrawer.css */
+
+.drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 350px;
+  height: 100%;
+  background: #fff;
+  box-shadow: -4px 0 16px rgba(0,0,0,0.2);
+  transform: translateX(100%);
+  transition: transform 0.3s ease-out;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+}
+
+.drawer.open {
+  transform: translateX(0);
+}
+
+.close-btn {
+  align-self: flex-end;
+  background: none;
+  border: none;
+  font-size: 1.25rem;
+  cursor: pointer;
+  padding: 4px;
+}
+
+.drawer-content {
+  margin-top: 12px;
+  overflow-y: auto;
+  flex: 1;
+}
+
+.drawer-content > * {
+  background: #fafafa;
+  border-radius: 8px;
+  padding: 12px;
+  margin-bottom: 12px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+/* 추천 매물 카드 리스트 */
+.cards-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding-bottom: 16px;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid var(--color-gray-300);
+  border-radius: var(--radius-base);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  padding: 16px;
+  cursor: pointer;
+}
+
+.card-header {
+  margin-bottom: 12px;
+}
+.card-address {
+  font-size: var(--font-size-base);
+  font-weight: 600;
+}
+.card-name {
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-700);
+  margin-top: 4px;
+}
+
+.card-body {
+  padding-bottom: 0;
+}
+
+.card-price {
+  font-size: var(--font-size-lg);
+  margin-bottom: var(--space-xs);
+  color: var(--color-text);
+}
+.price-highlight {
+  color: var(--color-primary);
+  font-weight: 500;
+}
+
+/* 면적, 통근시간, 혼잡도 텍스트 (같은 스타일) */
+.card-area,
+.card-commute,
+.card-congestion {
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-700);
+  margin-bottom: var(--space-xs);
+}
+
+/* 정보 + 버튼을 한 줄로 배치 */
+.info-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: var(--space-sm);
+}
+
+/* 경로 확인 버튼 스타일 */
+.btn-primary {
+  padding: 6px 16px;
+  background: var(--color-primary);
+  color: #fff;
+  border: none;
+  border-radius: var(--radius-base);
+  font-size: var(--font-size-sm);
+  cursor: pointer;
+}
+.btn-primary:hover {
+  background: var(--color-primary-dark);
+}
+
+/* 다시 검색 버튼 통합 */
+.drawer-footer .btn-secondary,
+.reset-btn {
+  display: block;
+  margin-left: auto;
+  background: var(--color-primary);
+  color: #fff;
+  border: none;
+  padding: 12px 24px;
+  border-radius: var(--radius-base);
+  font-size: var(--font-size-sm);
+  cursor: pointer;
+}
+.drawer-footer .btn-secondary:hover,
+.reset-btn:hover {
+  background: var(--color-primary-dark);
+}
+
+/* SlidingDrawer.css 끝에 */
+.drawer-footer .btn-secondary {
+  display: block;
+  margin: var(--space-sm) auto 0;  /* 위쪽에 약간 간격, 가운데 정렬 */
+  padding: 12px 24px;
+  background: var(--color-primary);
+  color: #fff;
+  border: none;
+  border-radius: var(--radius-base);
+  font-size: var(--font-size-sm);
+  cursor: pointer;
+}
+.drawer-footer .btn-secondary:hover {
+  background: var(--color-primary-dark);
+}

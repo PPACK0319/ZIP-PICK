@@ -1,0 +1,35 @@
+/* InputGroup.module.css */
+.inputGroup {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  border: 1px solid var(--color-gray-300);
+  border-radius: var(--radius-base);
+  overflow: hidden;
+  height: 44px;
+  margin-top: var(--space-xs);
+  box-sizing: border-box;
+}
+
+.inputGroup input {
+  grid-column: 1;
+  height: 100%;
+  border: none;
+  outline: none;
+  padding: 0 var(--space-md);
+  font-size: var(--font-size-lg);
+  color: var(--color-text);
+}
+
+.inputAddon {
+  grid-column: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--space-md);
+  background: var(--color-gray-100);
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-700);
+  font-weight: 500;
+  height: 100%;
+}
