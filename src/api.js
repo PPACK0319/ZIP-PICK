@@ -13,9 +13,9 @@ export const api = axios.create({
 export const fetchListings = (filters) =>
   api.get('/listings', { params: filters })
 
-// 3) 추천 매물 조회
-export const fetchRecommendations = (filters) =>
-  api.get('/recommend', { params: filters })
+ // ① POST /recommend (JSON body)
+ export const fetchRecommendations = (filters) =>
+   api.post('/recommend', filters).then(res => res.data)
 
 // 4) 경로 계산 (/api/path?SX=…&SY=…&EX=…&EY=…)
 export const fetchPath = ({ SX, SY, EX, EY }) =>
