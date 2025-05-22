@@ -208,12 +208,13 @@ def recommend():
     # 2) 실제 통근시간 계산 & 경로 전체 구간(subPath) 조회
     results = []
     for it in candidates:
-        elat = float(it.get("위도", 0))
-        elng = float(it.get("경도", 0))
+        elat   = float(it.get("위도", 0))
+        elng   = float(it.get("경도", 0))
         approx = haversine(slat, slng, elat, elng) / 333
         if approx > cutoff:
             continue
-        # -- ODsay 경로 API 호출 (get_path_mapobj 로직 재사용) --
+
+        # -- ODsay 경로 API 호출 및 방어 로직 --
         path_resp = requests.get(
             "https://api.odsay.com/v1/api/searchPubTransPathT",
             params={
@@ -226,17 +227,22 @@ def recommend():
             },
             timeout=10
         )
-        path0   = path_resp.json()["result"]["path"][0]
-        info    = path0["info"]
-        subps   = path0.get("subPath", [])
-        rt      = info.get("totalTime", float('inf'))
+        resp_json = path_resp.json()
+        # result 없거나 path 비어있으면 스킵
+        if "result" not in resp_json or not resp_json["result"].get("path"):
+            logging.error("🚫 ODsay 경로 응답 오류: %s", resp_json)
+            continue
+
+        path0 = resp_json["result"]["path"][0]
+        info  = path0["info"]
+        subps = path0.get("subPath", [])
+        rt    = info.get("totalTime", float('inf'))
 
         if rt <= cutoff:
             it["통근시간"] = rt
 
             # -- 전체 경로에 대한 시간 가중 평균·최대 혼잡도 계산 --
-            # departure_time 을 "7시30분" 형태로 바꿔주는 헬퍼
-            h, m = map(int, data.get("departure_time", "07:00").split(":"))
+            h, m       = map(int, data.get("departure_time", "07:00").split(":"))
             time_label = f"{h}시{m:02d}분"
 
             total_time   = 0
@@ -244,9 +250,8 @@ def recommend():
             peak_max     = 0.0
 
             for seg in subps:
-               # 지하철 구간만 포함
                 if seg.get("trafficType") == 1:
-                    sec = seg.get("sectionTime", 0) or 0
+                    sec  = seg.get("sectionTime", 0) or 0
                     congs = evaluate_congestion(seg, time_label)
                     if congs["avg"] is not None:
                         total_time   += sec
@@ -260,6 +265,7 @@ def recommend():
 
     results.sort(key=lambda x: x["통근시간"])
     return jsonify(results[:10])
+
 
 # --- 1) 경로(mapObj) + 상세(subPath) + 그래픽(lanes) 일괄 반환 ----
 @app.route("/api/path", methods=["GET"])
@@ -357,19 +363,29 @@ def proxy_load_lane():
     if len(first.split(":")) != 2:
         map_object = f"0:0@{map_object}"
 
-    url    = "https://api.odsay.com/v1/api/loadLane"
-    params = {
-        "apiKey":    ODSAY_API_KEY,
-        "mapObject": map_object,
-        "lang":      "0",
-        "output":    "json"
-    }
     try:
-        resp = requests.get(url, params=params, timeout=10)
-        return jsonify(resp.json())
+        lane_resp = requests.get(
+            "https://api.odsay.com/v1/api/loadLane",
+            params={
+                "apiKey":    ODSAY_API_KEY,
+                "mapObject": map_object,
+                "lang":      "0",
+                "output":    "json"
+            },
+            timeout=10
+        )
+        lane_js = lane_resp.json()
+        # result 없거나 lane 비어있으면 빈 리스트
+        if "result" not in lane_js or not lane_js["result"].get("lane"):
+            logging.error("🚫 ODsay loadLane 응답 오류: %s", lane_js)
+            lanes = []
+        else:
+            lanes = lane_js["result"]["lane"]
+        return jsonify({"result": {"lane": lanes}})
     except Exception as e:
         logging.error("🚫 proxy_load_lane error: %s", e)
         return jsonify({"error": "경로 그래픽 데이터 생성 실패"}), 500
+
 
 if __name__ == "__main__":
     app.run(debug=True, port=5000)
