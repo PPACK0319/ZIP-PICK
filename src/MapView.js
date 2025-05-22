@@ -2,6 +2,8 @@
 import React, { useEffect, useRef, forwardRef, useImperativeHandle } from 'react'
 import { useRecommend } from './hooks/useRecommend'
 
+const BASE = process.env.REACT_APP_API_BASE_URL || 'http://localhost:5000/api'
+
 // —— 컬러 상수 ——
 export const BUS_COLOR = '#000080'   // 버스: 네이비
 export const WALK_COLOR = '#999999'  // 도보: 그레이
@@ -305,7 +307,7 @@ useEffect(() => {
   )
 
   // 1) /api/path 호출 → subPath + mapObj
-  fetch(`/api/path?SX=${SX}&SY=${SY}&EX=${EX}&EY=${EY}`)
+  fetch(`${BASE}/path?SX=${SX}&SY=${SY}&EX=${EX}&EY=${EY}`)
     .then(res => res.json())
     .then(data => {
       if (data.error) throw new Error(data.error)
@@ -337,7 +339,7 @@ useEffect(() => {
       return data.mapObj
     })
     // 2) /api/loadLane 호출 → 버스·지하철 곡선 그리기
-    .then(mo => fetch(`/api/loadLane?mapObject=${encodeURIComponent(mo)}`))
+    .then(mo => fetch(`${BASE}/loadLane?mapObject=${encodeURIComponent(mo)}`))
     .then(r => r.json())
     .then(js => {
       // ⑥ 곡선 그리기 전 경계(bounds) 준비
