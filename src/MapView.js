@@ -2,7 +2,7 @@
 import React, { useEffect, useRef, forwardRef, useImperativeHandle } from 'react'
 import { useRecommend } from './hooks/useRecommend'
 
-const BASE = process.env.REACT_APP_API_BASE_URL || 'http://localhost:5000/api'
+
 
 // —— 컬러 상수 ——
 export const BUS_COLOR = '#000080'   // 버스: 네이비
@@ -51,7 +51,7 @@ export const SUBWAY_NAME_TO_CODE = {
   '수도권 수인.분당선':     1062,
   '수도권 수인·분당선':    1062
 }
-
+const BASE = process.env.REACT_APP_API_BASE_URL
 
 // 가격 포맷 (단위: 만원)
 function formatPriceMan(val) {
