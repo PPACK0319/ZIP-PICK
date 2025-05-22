@@ -16,7 +16,7 @@ import re
 
 # ───────────────────────────────────────────────────────────────
 # 1) 여기에 발급받은 ODsay Web API Key를 넣으세요
-ODSAY_API_KEY = "FxEeXTEl20Ld+DgPKA24VwfF7VVw7Yb0oeMHocGJnvE"
+ODSAY_API_KEY = "yqpGaVgTTVyAGfvcmdyFBA"
 # ───────────────────────────────────────────────────────────────
 
 # 로깅 설정
