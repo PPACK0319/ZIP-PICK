@@ -23,7 +23,12 @@ ODSAY_API_KEY = "FxEeXTEl20Ld+DgPKA24VwfF7VVw7Yb0oeMHocGJnvE"
 logging.basicConfig(level=logging.INFO, format='%(message)s')
 
 app = Flask(__name__)
-CORS(app, resources={r"/api/*": {"origins": "*"}})
+CORS(app, resources={r"/api/*": {
+    "origins": [
+        "http://localhost:3000",
+        "https://web-zip-pickfront-maxqr07lefae8062.sel4.cloudtype.app/"
+    ]
+}})
 
 # ─── ① 평일 7:00~8:30 평균 지하철 혼잡도 로드 & 맵 생성 ───
 # 파일 경로는 실제 위치에 맞게 조정하세요.
