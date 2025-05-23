@@ -52,7 +52,7 @@ export const SUBWAY_NAME_TO_CODE = {
   '수도권 수인·분당선':    1062
 }
 
-console.log('API_BASE_URL=', process.env.REACT_APP_API_BASE_URL);
+console.log('REACT_APP_API_BASE_URL=', process.env.REACT_APP_API_BASE_URL);
 
 // 가격 포맷 (단위: 만원)
 function formatPriceMan(val) {
@@ -308,7 +308,7 @@ useEffect(() => {
   )
 
   // 1) /api/path 호출 → subPath + mapObj
-  fetch(`${process.env.REACT_APP_API_BASE_URL}/path?SX=${SX}&SY=${SY}&EX=${EX}&EY=${EY}`,
+  fetch( 'https://port-0-zip-pick-maxqr07lefae8062.sel4.cloudtype.app/api/path' + `?SX=${SX}&SY=${SY}&EX=${EX}&EY=${EY}`,
    { cache: 'no-store' }    )
     .then(res => res.json())
     .then(data => {
@@ -346,7 +346,7 @@ useEffect(() => {
       return data.mapObj;
     })
     // 2) /api/loadLane 호출 → 버스·지하철 곡선 그리기
-    .then(mo => fetch(`${process.env.REACT_APP_API_BASE_URL}/loadLane?mapObject=${encodeURIComponent(mo)}`, 
+    .then(mo => fetch( 'https://port-0-zip-pick-maxqr07lefae8062.sel4.cloudtype.app/api/loadLane'  + `?mapObject=${encodeURIComponent(mo)}`, 
  { cache: 'no-store' } ))
     
     .then(r => r.json())
