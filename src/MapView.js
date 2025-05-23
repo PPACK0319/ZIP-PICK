@@ -308,11 +308,16 @@ useEffect(() => {
   )
 
   // 1) /api/path 호출 → subPath + mapObj
-  fetch(`${process.env.REACT_APP_API_BASE_URL}/api/path?SX=${SX}&SY=${SY}&EX=${EX}&EY=${EY}`)
+  fetch(`${process.env.REACT_APP_API_BASE_URL}/path?SX=${SX}&SY=${SY}&EX=${EX}&EY=${EY}`)
     .then(res => res.json())
     .then(data => {
-      if (data.error) throw new Error(data.error)
-
+       console.log('🛣️ [STEP1] /api/path 응답 전체:', data);
+    if (data.error) throw new Error(data.error);
+    subPath = data.subPath || [];
+    console.log('🛣️ [STEP1] subPath.length =', subPath.length);
+    subPath.forEach((sp,i) =>
+      console.log(`  segment[${i}]`, sp.trafficType, sp.startX, sp.startY, sp.endX, sp.endY)
+  );
       // ④ subPath 저장
       subPath = data.subPath || []
 
@@ -340,7 +345,7 @@ useEffect(() => {
       return data.mapObj;
     })
     // 2) /api/loadLane 호출 → 버스·지하철 곡선 그리기
-    .then(mo => fetch(`${process.env.REACT_APP_API_BASE_URL}/api/loadLane?mapObject=${encodeURIComponent(mo)}`))
+    .then(mo => fetch(`${process.env.REACT_APP_API_BASE_URL}/loadLane?mapObject=${encodeURIComponent(mo)}`))
     .then(r => r.json())
     .then(js => {
       // ⑥ 곡선 그리기 전 경계(bounds) 준비
