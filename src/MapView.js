@@ -308,7 +308,8 @@ useEffect(() => {
   )
 
   // 1) /api/path 호출 → subPath + mapObj
-  fetch(`${process.env.REACT_APP_API_BASE_URL}/path?SX=${SX}&SY=${SY}&EX=${EX}&EY=${EY}`)
+  fetch(`${process.env.REACT_APP_API_BASE_URL}/path?SX=${SX}&SY=${SY}&EX=${EX}&EY=${EY}`,
+   { cache: 'no-store' }    )
     .then(res => res.json())
     .then(data => {
        console.log('🛣️ [STEP1] /api/path 응답 전체:', data);
@@ -345,7 +346,9 @@ useEffect(() => {
       return data.mapObj;
     })
     // 2) /api/loadLane 호출 → 버스·지하철 곡선 그리기
-    .then(mo => fetch(`${process.env.REACT_APP_API_BASE_URL}/loadLane?mapObject=${encodeURIComponent(mo)}`))
+    .then(mo => fetch(`${process.env.REACT_APP_API_BASE_URL}/loadLane?mapObject=${encodeURIComponent(mo)}`, 
+ { cache: 'no-store' } ))
+    
     .then(r => r.json())
     .then(js => {
       // ⑥ 곡선 그리기 전 경계(bounds) 준비
