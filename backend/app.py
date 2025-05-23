@@ -26,7 +26,7 @@ app = Flask(__name__)
 CORS(app, resources={r"/api/*": {
     "origins": [
         "http://localhost:3000",
-        "https://web-zip-pickfront-maxqr07lefae8062.sel4.cloudtype.app/"
+        "https://port-0-zip-pick-maxqr07lefae8062.sel4.cloudtype.app/"
     ]
 }})
 
