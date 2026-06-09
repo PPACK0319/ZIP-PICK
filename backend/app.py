@@ -26,12 +26,14 @@ DEFAULT_ALLOWED_ORIGINS = [
     "http://127.0.0.1:3000",
     "https://web-zip-pickfront-maxqr07lefae8062.sel4.cloudtype.app",
     "https://port-0-zip-pick-maxqr07lefae8062.sel4.cloudtype.app",
+    "https://zip-pick.com",
 ]
-ALLOWED_ORIGINS = [
+configured_allowed_origins = [
     origin.strip()
-    for origin in os.environ.get("ALLOWED_ORIGINS", ",".join(DEFAULT_ALLOWED_ORIGINS)).split(",")
+    for origin in os.environ.get("ALLOWED_ORIGINS", "").split(",")
     if origin.strip()
 ]
+ALLOWED_ORIGINS = list(dict.fromkeys(DEFAULT_ALLOWED_ORIGINS + configured_allowed_origins))
 CORS(app, resources={r"/api/*": {
     "origins": ALLOWED_ORIGINS
 }})
