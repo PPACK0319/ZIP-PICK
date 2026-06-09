@@ -1,0 +1,3890 @@
+[
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "개화",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 12.774000000000001,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "김포공항",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 34.674,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "공항시장",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 37.982,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신방화",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 49.866,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "마곡나루",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 40.260000000000005,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "양천향교",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 51.827999999999996,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "가양",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 45.822,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "증미",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 55.824,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "등촌",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 69.76,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "염창",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 70.22999999999999,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신목동",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 80.33200000000001,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선유도",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 81.576,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "당산",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 69.086,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "국회의사당",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 61.55800000000001,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "여의도",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 48.908,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "샛강",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 41.14,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노량진",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 50.809999999999995,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노들",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 55.938,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "흑석",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 55.477999999999994,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "동작",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 53.0,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "구반포",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 51.60799999999999,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신반포",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 47.681999999999995,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "고속터미널",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 35.308,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "사평",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 32.275999999999996,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신논현",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 34.43,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "언주",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 25.66999999999999,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선정릉",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 25.136842105263156,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "삼성중앙",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 15.2102024291498,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "봉은사",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 10.40060728744939,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "종합운동장",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 11.523441295546561,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "삼전",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 12.376599190283402,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌고분",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 13.753522267206474,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 6.673481781376525,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "송파나루",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 4.701781376518217,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "한성백제",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 3.7529959514170024,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "올림픽공원",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 2.8300809716599202,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "둔촌오륜",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 2.189514170040484,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "중앙보훈병원",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 0.0,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "개화",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 12.306000000000001,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "김포공항",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 38.308,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "공항시장",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 44.064,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신방화",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 63.23,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "마곡나루",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 55.267999999999994,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "양천향교",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 70.444,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "가양",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 68.724,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "증미",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 79.412,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "등촌",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 116.11600000000001,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "염창",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 123.508,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신목동",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 139.11399999999998,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선유도",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 149.478,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "당산",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 133.82600000000002,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "국회의사당",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 111.174,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "여의도",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 72.458,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "샛강",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 60.132000000000005,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노량진",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 80.13,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노들",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 86.728,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "흑석",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 79.4,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "동작",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 78.782,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "구반포",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 73.24999999999999,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신반포",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 68.81800000000001,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "고속터미널",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 49.936,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "사평",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 43.58,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신논현",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 48.682,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "언주",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 36.624008097165984,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선정릉",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 36.8872874493927,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "삼성중앙",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 22.0163967611336,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "봉은사",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 14.558542510121454,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "종합운동장",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 14.52558704453442,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "삼전",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 15.31291497975709,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌고분",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 15.241659919028342,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 8.911376518218624,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "송파나루",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 5.631538461538461,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "한성백제",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 5.365789473684212,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "올림픽공원",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 5.686518218623485,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "둔촌오륜",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 3.0914979757085006,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "중앙보훈병원",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 0.0,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "개화",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 13.542000000000002,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "김포공항",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 59.468,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "공항시장",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 66.40599999999999,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신방화",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 81.54400000000001,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "마곡나루",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 66.788,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "양천향교",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 79.71600000000001,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "가양",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 84.80800000000002,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "증미",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 88.624,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "등촌",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 128.034,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "염창",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 152.062,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신목동",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 169.704,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선유도",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 182.124,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "당산",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 168.64400000000003,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "국회의사당",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 129.64600000000002,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "여의도",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 100.086,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "샛강",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 88.628,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노량진",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 131.61,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노들",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 140.26,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "흑석",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 139.77,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "동작",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 139.862,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "구반포",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 136.928,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신반포",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 133.01999999999998,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "고속터미널",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 90.71799999999999,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "사평",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 77.67,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신논현",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 84.984,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "언주",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 59.30987854251015,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선정릉",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 56.96469635627526,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "삼성중앙",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 36.86854251012146,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "봉은사",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 23.27234817813766,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "종합운동장",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 24.275546558704463,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "삼전",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 23.910323886639688,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌고분",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 24.183562753036444,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 13.190040485829954,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "송파나루",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 8.177206477732797,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "한성백제",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 6.2919838056680195,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "올림픽공원",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 4.511821862348176,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "둔촌오륜",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 3.0520647773279364,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "중앙보훈병원",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 0.0,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "개화",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 8.888,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "김포공항",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 48.21999999999999,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "공항시장",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 64.566,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신방화",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 83.454,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "마곡나루",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 76.172,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "양천향교",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 72.47800000000001,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "가양",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 79.74600000000001,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "증미",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 72.50399999999999,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "등촌",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 98.49600000000001,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "염창",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 123.724,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신목동",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 139.93,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선유도",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 151.55599999999998,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "당산",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 167.59,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "국회의사당",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 106.13400000000001,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "여의도",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 74.936,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "샛강",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 63.402,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노량진",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 84.89599999999999,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노들",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 101.182,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "흑석",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 101.748,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "동작",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 103.06799999999998,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "구반포",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 100.552,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신반포",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 112.46400000000001,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "고속터미널",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 81.66599999999998,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "사평",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 91.44,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신논현",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 97.28,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "언주",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 62.54380566801619,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선정릉",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 63.250566801619414,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "삼성중앙",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 36.177489878542495,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "봉은사",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 21.226558704453442,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "종합운동장",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 25.18740890688259,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "삼전",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 23.992469635627522,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌고분",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 21.663400809716602,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 13.791862348178132,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "송파나루",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 7.637165991902836,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "한성백제",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 5.900485829959512,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "올림픽공원",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 3.0763562753036435,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "둔촌오륜",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 2.6797570850202455,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "중앙보훈병원",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 0.0,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "개화",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 0.0,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "김포공항",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 6.114,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "공항시장",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 14.801999999999998,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신방화",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 13.7,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "마곡나루",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 11.86,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "양천향교",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 15.735999999999999,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "가양",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 17.076,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "증미",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 30.684000000000005,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "등촌",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 30.826,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "염창",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 27.305999999999994,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신목동",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 33.446,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선유도",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 30.564,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "당산",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 35.534,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "국회의사당",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 30.096000000000004,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "여의도",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 50.43000000000001,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "샛강",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 61.064,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노량진",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 81.366,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노들",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 64.878,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "흑석",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 58.686,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "동작",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 63.302,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "구반포",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 52.06,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신반포",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 54.152,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "고속터미널",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 58.71,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "사평",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 54.02,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신논현",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 49.117999999999995,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "언주",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 46.266599190283394,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선정릉",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 46.14344129554655,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "삼성중앙",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 44.31040485829961,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "봉은사",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 47.742874493927125,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "종합운동장",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 47.61400809716601,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "삼전",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 53.034574898785415,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌고분",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 42.55360323886638,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 32.146558704453426,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "송파나루",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 20.49145748987854,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "한성백제",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 13.299919028340067,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "올림픽공원",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 10.767692307692306,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "둔촌오륜",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 5.930647773279353,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "중앙보훈병원",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 4.164008097165992,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "개화",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 0.0,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "김포공항",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 5.76,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "공항시장",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 20.366,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신방화",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 17.67,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "마곡나루",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 15.457999999999998,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "양천향교",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 22.637999999999998,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "가양",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 26.15,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "증미",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 47.13,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "등촌",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 53.477999999999994,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "염창",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 50.443999999999996,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신목동",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 51.678,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선유도",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 48.144,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "당산",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 60.314,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "국회의사당",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 41.79,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "여의도",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 87.678,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "샛강",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 114.744,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노량진",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 134.096,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노들",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 104.18799999999999,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "흑석",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 94.75999999999999,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "동작",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 91.33,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "구반포",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 78.14399999999999,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신반포",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 76.25,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "고속터미널",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 76.41000000000001,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "사평",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 71.008,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신논현",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 61.528,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "언주",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 54.75676113360323,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선정릉",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 59.05028340080972,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "삼성중앙",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 56.39935222672063,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "봉은사",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 59.650566801619426,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "종합운동장",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 64.7143319838057,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "삼전",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 74.60036437246958,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌고분",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 60.89943319838056,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 48.27696356275302,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "송파나루",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 34.67311740890687,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "한성백제",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 25.869271255060745,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "올림픽공원",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 21.475587044534404,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "둔촌오륜",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 9.387975708502022,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "중앙보훈병원",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 7.295344129554657,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "개화",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 0.0,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "김포공항",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 6.284,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "공항시장",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 18.259999999999998,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신방화",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 16.892000000000003,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "마곡나루",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 18.154000000000003,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "양천향교",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 26.977999999999998,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "가양",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 36.232,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "증미",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 50.27,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "등촌",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 70.914,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "염창",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 66.338,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신목동",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 72.06,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선유도",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 66.628,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "당산",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 89.59399999999998,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "국회의사당",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 63.129999999999995,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "여의도",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 132.254,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "샛강",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 137.89399999999998,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노량진",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 146.53400000000002,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노들",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 118.904,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "흑석",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 109.078,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "동작",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 105.826,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "구반포",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 88.68800000000002,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신반포",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 85.84200000000001,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "고속터미널",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 79.704,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "사평",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 64.582,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신논현",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 57.36,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "언주",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 56.23469635627532,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선정릉",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 69.89935222672067,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "삼성중앙",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 68.46473684210527,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "봉은사",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 73.03595141700403,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "종합운동장",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 82.30064777327937,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "삼전",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 97.39975708502024,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌고분",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 78.41619433198385,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 60.81137651821862,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "송파나루",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 42.678744939271255,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "한성백제",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 29.60311740890688,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "올림픽공원",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 23.6783805668016,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "둔촌오륜",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 9.406720647773275,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "중앙보훈병원",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 5.754412955465586,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "개화",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 0.0,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "김포공항",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 5.494,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "공항시장",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 12.724,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신방화",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 10.791999999999998,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "마곡나루",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 14.018,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "양천향교",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 19.088,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "가양",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 37.836,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "증미",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 34.696000000000005,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "등촌",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 58.096000000000004,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "염창",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 58.620000000000005,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신목동",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 48.745999999999995,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선유도",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 44.480000000000004,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "당산",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 76.14599999999999,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "국회의사당",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 41.984,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "여의도",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 125.89000000000001,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "샛강",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 101.15200000000002,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노량진",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 93.9,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노들",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 74.95,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "흑석",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 63.826,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "동작",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 67.872,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "구반포",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 51.422000000000004,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신반포",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 49.184,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "고속터미널",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 36.022000000000006,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "사평",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 31.522,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신논현",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 27.57,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "언주",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 38.024453441295535,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선정릉",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 56.217004048582965,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "삼성중앙",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 55.67360323886643,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "봉은사",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 66.37931174089069,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "종합운동장",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 73.74024291497976,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "삼전",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 82.87550607287451,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌고분",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 60.972753036437226,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 48.41894736842103,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "송파나루",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 27.160647773279333,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "한성백제",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 17.363724696356268,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "올림픽공원",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 15.916194331983816,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "둔촌오륜",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 5.544696356275304,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "중앙보훈병원",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 3.4185425101214593,
+    "service_type": "완행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "김포공항",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 52.07000000000001,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "마곡나루",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 62.515999999999984,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "가양",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 85.37400000000001,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "염창",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 107.03,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "당산",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 106.56199999999998,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "여의도",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 107.51599999999999,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노량진",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 122.298,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "동작",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 120.244,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "고속터미널",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 92.724,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신논현",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 62.992,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선정릉",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 45.401983805667996,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "봉은사",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 32.108704453441305,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "종합운동장",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 25.13874493927124,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 15.08789473684211,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "올림픽공원",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 9.056153846153842,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "중앙보훈병원",
+    "direction": "상행",
+    "time_label": "7시00분",
+    "congestion": 0.0,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "김포공항",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 81.138,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "마곡나루",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 100.886,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "가양",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 130.902,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "염창",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 164.384,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "당산",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 157.58,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "여의도",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 141.35399999999998,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노량진",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 157.42,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "동작",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 144.346,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "고속터미널",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 118.99599999999998,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신논현",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 82.03799999999998,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선정릉",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 58.69789473684212,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "봉은사",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 37.177894736842106,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "종합운동장",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 29.821862348178144,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 15.633117408906875,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "올림픽공원",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 10.520364372469638,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "중앙보훈병원",
+    "direction": "상행",
+    "time_label": "7시30분",
+    "congestion": 0.0,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "김포공항",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 90.556,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "마곡나루",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 112.14200000000001,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "가양",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 143.594,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "염창",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 176.262,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "당산",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 177.632,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "여의도",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 186.71200000000002,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노량진",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 200.048,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "동작",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 192.15800000000002,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "고속터미널",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 163.524,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신논현",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 116.84199999999998,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선정릉",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 77.361012145749,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "봉은사",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 46.95461538461539,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "종합운동장",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 38.91777327935221,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 19.07910931174089,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "올림픽공원",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 12.485060728744939,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "중앙보훈병원",
+    "direction": "상행",
+    "time_label": "8시00분",
+    "congestion": 0.0,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "김포공항",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 101.14599999999999,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "마곡나루",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 120.13399999999999,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "가양",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 137.496,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "염창",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 164.02200000000002,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "당산",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 163.42000000000002,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "여의도",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 162.78400000000002,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노량진",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 176.728,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "동작",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 183.81600000000003,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "고속터미널",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 159.648,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신논현",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 119.98799999999999,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선정릉",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 72.47684210526315,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "봉은사",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 34.985303643724706,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "종합운동장",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 30.189716599190294,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 14.801214574898788,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "올림픽공원",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 6.768421052631582,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "중앙보훈병원",
+    "direction": "상행",
+    "time_label": "8시30분",
+    "congestion": 0.0,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "김포공항",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 0.0,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "마곡나루",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 27.846000000000004,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "가양",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 43.434000000000005,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "염창",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 40.342,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "당산",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 46.15599999999999,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "여의도",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 46.141999999999996,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노량진",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 93.55600000000001,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "동작",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 115.3,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "고속터미널",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 122.304,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신논현",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 109.48400000000001,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선정릉",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 92.49259109311735,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "봉은사",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 77.71101214574897,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "종합운동장",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 82.4812145748988,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 78.16659919028339,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "올림픽공원",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 53.229433198380576,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "중앙보훈병원",
+    "direction": "하행",
+    "time_label": "7시00분",
+    "congestion": 30.691214574898783,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "김포공항",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 0.0,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "마곡나루",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 37.007999999999996,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "가양",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 61.870000000000005,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "염창",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 59.82000000000001,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "당산",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 59.676,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "여의도",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 62.438,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노량진",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 151.78400000000002,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "동작",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 164.126,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "고속터미널",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 152.81599999999997,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신논현",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 139.304,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선정릉",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 111.42700404858296,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "봉은사",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 99.65125506072877,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "종합운동장",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 104.52983805668013,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 103.53121457489878,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "올림픽공원",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 65.38012145748986,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "중앙보훈병원",
+    "direction": "하행",
+    "time_label": "7시30분",
+    "congestion": 35.9855060728745,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "김포공항",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 0.0,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "마곡나루",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 30.426,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "가양",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 68.09,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "염창",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 78.894,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "당산",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 88.4,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "여의도",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 87.962,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노량진",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 183.27599999999998,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "동작",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 183.358,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "고속터미널",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 172.858,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신논현",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 158.05400000000003,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선정릉",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 121.03546558704451,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "봉은사",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 108.90182186234829,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "종합운동장",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 116.00141700404859,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 112.5461538461539,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "올림픽공원",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 68.3501619433199,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "중앙보훈병원",
+    "direction": "하행",
+    "time_label": "8시00분",
+    "congestion": 33.84497975708499,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "김포공항",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 1.178,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "마곡나루",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 20.744000000000003,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "가양",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 56.922000000000004,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "염창",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 63.95,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "당산",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 62.40400000000001,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "여의도",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 63.5,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "노량진",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 143.022,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "동작",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 134.04000000000002,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "고속터미널",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 103.112,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "신논현",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 94.398,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "선정릉",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 78.85477732793522,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "봉은사",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 75.55263157894737,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "종합운동장",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 86.08376518218626,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "석촌",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 87.28267206477737,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "올림픽공원",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 52.04404858299595,
+    "service_type": "급행"
+  },
+  {
+    "line_code": 9,
+    "station_id": null,
+    "station_name": "중앙보훈병원",
+    "direction": "하행",
+    "time_label": "8시30분",
+    "congestion": 23.22242914979758,
+    "service_type": "급행"
+  }
+]

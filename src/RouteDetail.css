@@ -1,0 +1,231 @@
+/* src/RouteDetail.css */
+
+/* ───────────────────────────────── */
+/* 공통 스타일                        */
+/* ───────────────────────────────── */
+
+.route-detail {
+  position: relative;
+  padding: 10px 32px 40px 32px;
+  background: #f4f4f4;
+  max-width: 800px;
+  margin-top: 32px;
+  border-radius: 18px;
+  font-family: var(--font-family-base);
+  font-weight: var(--font-weight-medium);
+}
+
+.close-btn {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.status {
+  padding: 8px;
+  text-align: center;
+}
+.status.error {
+  color: #c00;
+}
+
+.route-title {
+  margin: 0 0 8px;
+  font-size: 1.5rem;
+  font-weight: var(--font-weight-bold);
+  line-height: 1.35;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+
+.route-summary {
+  font-size: 1.15rem;
+  color: #555;
+  margin-bottom: 20px;
+  display: grid;
+  gap: 8px;
+  line-height: 1.35;
+}
+
+.route-summary-main,
+.route-summary-congestion {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  min-width: 0;
+}
+
+.route-summary-congestion {
+  gap: 8px;
+}
+
+.congestion-grade-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 9px 4px;
+  border: 1px solid rgba(34, 34, 34, 0.12);
+  border-radius: 999px;
+  background: #fff;
+  color: #333;
+  font-size: 0.85rem;
+  font-weight: var(--font-weight-bold);
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+.congestion-grade-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex: 0 0 auto;
+}
+
+/* ───────────────────────────────── */
+/* 1) 가로 요약 타임라인 바          */
+/* ───────────────────────────────── */
+
+.timeline-bar {
+  display: flex;
+  height: 16px;
+  margin-bottom: 24px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.timeline-bar-segment {
+  /* flex로 너비 비례 배분, backgroundColor는 JS 인라인 스타일로 지정 */
+}
+
+/* ───────────────────────────────── */
+/* 2) 세로 스텝별 타임라인          */
+/* ───────────────────────────────── */
+
+.vertical-timeline-container {
+  margin-top: 24px;  /* 가로 바와의 간격 */
+}
+
+/* src/RouteDetail.css */
+
+/* 1) 세로 가이드 선 대신, 각 li에서 개별 선을 그립니다 */
+.step-list {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* 2) 항목(dot) 설정은 그대로 둡니다 */
+.step-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 40px;
+  min-height: 48px;
+  position: relative;
+}
+.step-item:last-child {
+  margin-bottom: 0;
+}
+/* 원형 마커 */
+.step-item::before {
+  content: '';
+  display: block;
+  width: 18px;
+  height: 18px;
+  aspect-ratio: 1 / 1;
+  background: currentColor;
+  border-radius: 50%;
+  margin-right: 18px;
+  margin-bottom: 0;
+}
+
+/* 4) 아이콘・텍스트 영역 그대로 */
+.step-icon {
+  position: absolute;
+  left: 0;
+  top: -2px; /* 아이콘 상단 정렬 미세조정 */
+  display: flex;
+  justify-content: center;
+  font-size: 1rem;
+  /* color: transparent; 아이콘 보이도록 이 줄 제거 또는 주석 처리 */
+}
+.step-icon .icon-walk::before   { content: '🚶'; }
+.step-icon .icon-bus::before    { content: '🚌'; }
+.step-icon .icon-subway::before { content: '🚇'; }
+
+.step-content {
+  padding: 0;
+  text-align: left;
+  min-width: 0;
+}
+
+/* 기존 .step-desc, .step-meta 스타일 제거 또는 주석 처리 */
+/* .step-desc { margin: 0 0 4px; } */
+/* .step-meta { font-size: 0.8rem; color: #666; } */
+
+/* 새로운 텍스트 클래스 스타일 */
+.step-path-desc,
+.step-line-name {
+  margin-bottom: -3px;
+  font-weight: var(--font-weight-bold);
+  font-size: 1.35rem;
+  line-height: 1.6;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+
+.step-walk-meta {
+  font-size: 1.15rem;
+  color: #555;
+  margin-bottom: 0;
+  line-height: 1.5;
+}
+
+.step-transit-detail {
+  font-size: 1.15rem;
+  color: #333;
+  margin-bottom: 0;
+  line-height: 1.5;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+
+.step-meta-small {
+  font-size: 0.95rem;
+  color: #555;
+  margin-top: 2px;
+  line-height: 1.3;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+
+/* 5) trafficType 별 색 지정 (currentColor을 통해 선・dot 색이 결정됩니다) */
+.step-item.bus    { color: #000080; }  /* BUS_COLOR */
+.step-item.walk   { color: #999999; }  /* WALK_COLOR */
+.step-item.subway { /* 인라인 style로 각 호선별 색 지정 */ }
+
+.back-btn {
+  position: static;
+  display: block;
+  margin: 32px auto 0 auto;
+  padding: 12px 32px;
+  background: #fff;
+  color: #222;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-family: var(--font-family-base);
+  font-weight: var(--font-weight-bold);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.back-btn:hover {
+  background: #ececec;
+}

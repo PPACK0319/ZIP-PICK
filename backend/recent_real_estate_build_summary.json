@@ -1,0 +1,22 @@
+{
+  "months": [
+    "202512",
+    "202601",
+    "202602",
+    "202603",
+    "202604",
+    "202605"
+  ],
+  "transaction_count": 447798,
+  "coordinate_matched_listing_count": 87825,
+  "search_listing_count": 15756,
+  "missing_coordinate_count": 355912,
+  "max_search_listings_per_gu_service_month": 20,
+  "error_count": 0,
+  "errors": [],
+  "outputs": {
+    "market_activity": "C:\\Users\\박중훈\\Documents\\Codex\\2026-05-27\\files-mentioned-by-the-user-zip\\source-only\\zip-pick-new\\backend\\market_activity_seoul.json",
+    "search_listings": "C:\\Users\\박중훈\\Documents\\Codex\\2026-05-27\\files-mentioned-by-the-user-zip\\source-only\\zip-pick-new\\backend\\dummy_listings.json",
+    "raw_transactions": "C:\\Users\\박중훈\\Documents\\Codex\\2026-05-27\\files-mentioned-by-the-user-zip\\source-only\\zip-pick-new\\backend\\recent_transactions_seoul_6m.json"
+  }
+}

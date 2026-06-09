@@ -1,0 +1,41 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env
+.env.*
+!.env.example
+!backend/.env.example
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+__pycache__/
+*.py[cod]
+
+# runtime API caches
+/backend/odsay_path_cache.json
+/backend/odsay_usage.json
+/backend/recent_transactions_seoul_6m.json
+/backend/legacy/
+/backend/__pycache__/
+/backend/scripts/__pycache__/
+
+# generated report QA artifacts
+/docs/rendered*/
